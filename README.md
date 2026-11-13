@@ -107,3 +107,4 @@ python session_analysis.py
 | `F.sum(...).over(rowsBetween(...))` | Cumulative session counter |
 | `F.countDistinct()` | Sessions per day |
 | `F.min() / F.max()` | Session start / end for length |
+
